@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula01/1080p60/partial_movie_files/Basic/3529212410_445765096_223132457.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula01/1080p60/partial_movie_files/Basic/3040924799_1141282389_650549963.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula01/1080p60/partial_movie_files/Basic/3040924799_9915878_4256621072.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula01/1080p60/partial_movie_files/Basic/3040924799_1141282389_282129586.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula01/1080p60/partial_movie_files/Basic/3040924799_3777448527_964055275.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula01/1080p60/partial_movie_files/Basic/3040924799_1141282389_4017345502.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula01/1080p60/partial_movie_files/Basic/3040924799_3186567476_3339533835.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula01/1080p60/partial_movie_files/Basic/3040924799_4142114688_3557674324.mp4'

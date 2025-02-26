@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3529212410_1292744842_223132457.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_1704852926_3324050539.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_1879390886_624132284.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_2475379470_1292392579.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_4075244740_2763036073.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_1141282389_1715098188.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_2330819971_52758703.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_1704852926_1133552800.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_1472109011_1355449721.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_1141282389_492672910.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_2047945065_999618601.mp4'
+file 'file:C:/Users/heito/manimations/codes/media/videos/Aula02/1080p60/partial_movie_files/poligonos/3040924799_2006153017_965814226.mp4'
